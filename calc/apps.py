@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class FirstappConfig(AppConfig):
+class CalcConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'Firstapp'
+    name = 'calc'
